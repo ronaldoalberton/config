@@ -1,26 +1,22 @@
 {
-  "webdocs_app": {
-    "url_api": "",
-    "documentos": [
-        {
-          "tipo_documento":"folha_ponto",
-          "descricao":"Folha Ponto",
-          "icone":""
-        },
-        {
-          "tipo_documento":"folha_ponto",
-          "descricao":"Folha Ponto",
-          "icone":""
-        },
-        {
-          "tipo_documento":"folha_ponto",
-          "descricao":"Folha Ponto",
-          "icone":""
-        }
-    
-    
-      ]
-  
-  
+    "webdocs_app": {
+        "folder": [
+            {
+                "descricao": "Folha Ponto",
+                "icone": "",
+                "tipo": "folha_ponto"
+            },
+            {
+                "descricao": "Folha Ponto",
+                "icone": "",
+                "tipo": "folha_ponto"
+            },
+            {
+                "descricao": "Folha Ponto",
+                "icone": "",
+                "tipo": "folha_ponto"
+            }
+        ],
+        "url_api": ""
     }
 }

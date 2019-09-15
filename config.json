@@ -1,6 +1,6 @@
 {
     "webdocs_app_config": {
-        "folders": [
+        "tipos_documento": [
             {
                 "descricao": "Folha Ponto",
                 "icone": "",

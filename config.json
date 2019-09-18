@@ -17,6 +17,6 @@
                 "tipo": "folha_ponto"
             }
         ],
-        "url_api": ""
+        "url_api": "http://doc.superitalo.com.br:8888/integrador/api"
     }
 }

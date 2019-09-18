@@ -7,14 +7,14 @@
                 "tipo": "folha_ponto"
             },
             {
-                "descricao": "Folha Ponto",
+                "descricao": "Folha de Pagamento",
                 "icone": "",
-                "tipo": "folha_ponto"
+                "tipo": "folha_pagamento"
             },
             {
-                "descricao": "Folha Ponto",
+                "descricao": "Informe de Rendimentos",
                 "icone": "",
-                "tipo": "folha_ponto"
+                "tipo": "informe_rendimentos"
             }
         ],
         "url_api": "http://doc.superitalo.com.br:8888/integrador/api"

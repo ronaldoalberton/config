@@ -3,17 +3,17 @@
         "tipos_documento": [
             {
                 "descricao": "Folha Ponto",
-                "icone": "",
+                "icone": "access_time",
                 "tipo": "folha_ponto"
             },
             {
                 "descricao": "Folha de Pagamento",
-                "icone": "",
+                "icone": "format_list_bulleted",
                 "tipo": "folha_pagamento"
             },
             {
                 "descricao": "Informe de Rendimentos",
-                "icone": "",
+                "icone": "attach_money",
                 "tipo": "informe_rendimentos"
             }
         ],

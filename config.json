@@ -2,6 +2,12 @@
     "webdocs_app_config": {
         "tipos_documento": [
             {
+                "descricao": "Código de Ética",
+                "tipo": "codigo_etica",
+                "icone": "attach_money",
+                "link": "http://conhecimento.superitalo.com.br/doku.php?id=gerencial:codigo_de_etica"
+            },
+            {
                 "descricao": "Folha Ponto",
                 "icone": "access_time",
                 "tipo": "folha_ponto"
@@ -15,13 +21,8 @@
                 "descricao": "Informe de Rendimentos",
                 "icone": "attach_money",
                 "tipo": "informe_rendimentos"
-            },
-            {
-                "descricao": "Código de Ética",
-                "tipo": "codigo_etica",
-                "icone": "attach_money",
-                "link": "http://conhecimento.superitalo.com.br/doku.php?id=gerencial:codigo_de_etica"
             }
+            
         ],
         "url_api": "http://doc.superitalo.com.br:8888/integrador/api"
     }

@@ -15,6 +15,12 @@
                 "descricao": "Informe de Rendimentos",
                 "icone": "attach_money",
                 "tipo": "informe_rendimentos"
+            },
+            {
+                "descricao": "Código de Ética",
+                "tipo": "codigo_etica",
+                "icone": "attach_money",
+                "link": "https://medium.com/@boldijar.paul/comboboxes-in-flutter-cabc9178cc95"
             }
         ],
         "url_api": "http://doc.superitalo.com.br:8888/integrador/api"

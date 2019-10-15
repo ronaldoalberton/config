@@ -4,23 +4,27 @@
             {
                 "descricao": "Código de Ética",
                 "tipo": "codigo_etica",
-                "icone": "attach_money",
-                "link": "http://conhecimento.superitalo.com.br/doku.php?id=gerencial:codigo_de_etica"
+                "icone": "library_books",
+                "link": "http://conhecimento.superitalo.com.br/doku.php?id=gerencial:codigo_de_etica",
+                "icone_color": "green"
             },
             {
                 "descricao": "Folha Ponto",
                 "icone": "access_time",
-                "tipo": "folha_ponto"
+                "tipo": "folha_ponto",
+                "icone_color": "orange"
             },
             {
                 "descricao": "Folha de Pagamento",
                 "icone": "format_list_bulleted",
-                "tipo": "holerite"
+                "tipo": "holerite",
+                 "icone_color": "brown"
             },
             {
                 "descricao": "Informe de Rendimentos",
                 "icone": "attach_money",
                 "tipo": "informe_rendimentos"
+                "icone_color": "indigoAccent"
             }
             
         ],

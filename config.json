@@ -28,7 +28,7 @@
             }
             
         ],
-        "url_logo": "https://superitalo.com.br/footage/logo.png",
+        "url_logo": "https://raw.githubusercontent.com/ronaldoalberton/config/master/logo_transparent.png",
         "url_api": "http://doc.superitalo.com.br:8888/integrador/api"
     }
 }

@@ -23,7 +23,7 @@
             {
                 "descricao": "Informe de Rendimentos",
                 "icone": "attach_money",
-                "tipo": "informe_rendimentos"
+                "tipo": "informe_rendimentos",
                 "icone_color": "indigoAccent"
             }
             
